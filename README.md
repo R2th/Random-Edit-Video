@@ -23,5 +23,3 @@ the source (link above).
 - **examples/** (examples with main functions that test and showcase src/ code)
 - **include/** (header files for src/ code)
 - **bin/** (build directory. object files and executables live here)
-
-a work in progress by Devon Crawford
