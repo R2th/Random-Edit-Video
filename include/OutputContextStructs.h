@@ -1,7 +1,5 @@
 /**
  * @file OutputContextStructs.h
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the definition of OutputContext data structures
  */
 

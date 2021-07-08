@@ -1,7 +1,5 @@
 /**
  * @file LinkedListAPI.h
- * @author Devon Crawford
- * @date September 2017
  * @brief File containing the function definitions of a doubly linked list
  */
 

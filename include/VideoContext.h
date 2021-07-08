@@ -1,7 +1,5 @@
 /**
  * @file VideoContext.h
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the definition and usage for VideoContext API:
  * The primary data structure for raw media files, videos just as they
  * are on disk.

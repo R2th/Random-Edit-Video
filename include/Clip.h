@@ -1,7 +1,5 @@
 /**
  * @file Clip.h
- * @author Devon Crawford
- * @date February 13, 2019
  * @brief File containing the definition and usage for Clip API:
  * Clip stores a reference to a video file and its data within an editing sequence
  */
