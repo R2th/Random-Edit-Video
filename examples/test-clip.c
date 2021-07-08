@@ -1,7 +1,5 @@
 /**
  * @file test-clip.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File testing the Clip API
  */
 

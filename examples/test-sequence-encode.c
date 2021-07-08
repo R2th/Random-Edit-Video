@@ -1,7 +1,5 @@
 /**
  * @file test-sequence-encode.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File testing the SequenceEncode and OutputContext API
  */
 
