@@ -1,7 +1,5 @@
 /**
  * LinkedListAPI.c
- * Devon Crawford
- * February 2, 2018
  */
 
 #include "LinkedListAPI.h"

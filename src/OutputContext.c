@@ -1,7 +1,5 @@
 /**
  * @file OutputContext.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source for OutputContext API:
  * These functions build ontop of SequenceEncode API to write encoded
  * frames to an output file.

@@ -1,7 +1,5 @@
 /**
  * @file Clip.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source code for Clip API:
  * Clip stores a reference to a video file and its data within an editing sequence
  */

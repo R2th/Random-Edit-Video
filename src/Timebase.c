@@ -1,7 +1,5 @@
 /**
  * @file Timebase.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source for Timebase API:
  * Useful timebase conversions and seek functionality for VideoContext
  */

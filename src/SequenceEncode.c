@@ -1,7 +1,5 @@
 /**
  * @file SequenceEncode.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source for SequenceEncode API:
  * These functions build ontop of SequenceDecode API to encode all frames
  * from a list of clips in a sequence

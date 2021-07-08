@@ -1,7 +1,5 @@
 /**
  * @file SequenceDecode.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source for SequenceDecode API:
  * These functions build ontop of ClipDecode API to read all decoded frames
  * from a list of clips in a sequence

@@ -1,7 +1,5 @@
 /**
  * @file Sequence.c
- * @author Devon Crawford
- * @date February 14, 2019
  * @brief File containing the definitions and usage of the Sequence API:
  * A sequence is a list of clips in the editing timeline
  */

@@ -1,7 +1,5 @@
 /**
  * @file ClipDecode.c
- * @author Devon Crawford
- * @date February 21, 2019
  * @brief File containing the source for ClipDecode API:
  * These functions build ontop of clip_read_packet() to get a packet from the
  * original video file, decode it and return an AVFrame
